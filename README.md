@@ -11,9 +11,8 @@ Skapa filen `result.js` och exportera en av funktionerna från `operations.js` I
 **Tips!** Tänk på ordningen av hur alla funktioner anropas.
 
 ## Läsa/skriva med Node
-1. Skriv ett program som sparar citatet 
+1. Skriv ett program som sparar citatet nedan i en textfil som heter `alicequotes.txt` Använd `writeFile`.
 > "Why, sometimes I've believed as many as six impossible things before breakfast."
-i en textfil som heter `alicequotes.txt` Använd writeFile.
 
 2. Skriv ett program som läser from textfilen `alicequotes.txt` och skriver ut innehållet.
 
