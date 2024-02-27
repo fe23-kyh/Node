@@ -25,4 +25,4 @@ Skapa filen `result.js` och exportera en av funktionerna från `operations.js` I
 
 ### 💡 Level-Up 
 Skriv ett program som skapar en fil och skriver en text till denna fil som en användare ger. En användare ska i terminalen få mata in vad filen ska heta och sedan vad för text som ska skrivas in i filen. 
-**Tips!** Här behöver du använda dig av [Readline sync](https://www.npmjs.com/package/readline-sync)
+**Tips!** Här behöver du använda dig av [readlineSync](https://www.npmjs.com/package/readline-sync)
