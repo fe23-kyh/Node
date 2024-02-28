@@ -7,7 +7,7 @@ Exportera alla fyra funktioner och importera dessa i `index.js`
 Anropa sedan varje funktion och använd `console.log()` för svaret.
 
 ### 💡 Level-Up 
-Skapa filen `result.js` och exportera en av funktionerna från `operations.js` Importera sedan funktionen till `index.js` och anropa den för att logga ut resultatet. 
+Skapa filen `result.js` och lägg till samt exportera en av funktionerna från `operations.js` Importera sedan funktionen till `index.js` och anropa den för att logga ut resultatet. 
 **Tips!** Tänk på ordningen av hur alla funktioner anropas.
 
 ## Läsa/skriva med Node
